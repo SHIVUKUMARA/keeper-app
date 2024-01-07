@@ -1,5 +1,11 @@
 # keeper-app-react
 
-##Live Demo:  
+### Live Demo:  
 
-(https://shivukumara-keeper-app-react.netlify.app/)
+( https://shivukumara-keeper-app-react.netlify.app/ )
+
+To run in your system: Download Zip file
+
+                      npm i or npm install
+
+                      npm start
